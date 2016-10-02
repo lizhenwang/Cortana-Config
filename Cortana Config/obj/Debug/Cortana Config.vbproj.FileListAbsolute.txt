@@ -1,0 +1,21 @@
+D:\Documents\Visual Studio 2015\Projects\DD Hosts Manager\Cortana Config\Cortana Config\bin\Debug\Cortana Config.exe.config
+D:\Documents\Visual Studio 2015\Projects\DD Hosts Manager\Cortana Config\Cortana Config\bin\Debug\Cortana Config.exe
+D:\Documents\Visual Studio 2015\Projects\DD Hosts Manager\Cortana Config\Cortana Config\bin\Debug\Cortana Config.pdb
+D:\Documents\Visual Studio 2015\Projects\DD Hosts Manager\Cortana Config\Cortana Config\bin\Debug\Cortana Config.xml
+D:\Documents\Visual Studio 2015\Projects\DD Hosts Manager\Cortana Config\Cortana Config\obj\Debug\Cortana_Config.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\DD Hosts Manager\Cortana Config\Cortana Config\obj\Debug\Cortana Config.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\DD Hosts Manager\Cortana Config\Cortana Config\obj\Debug\Cortana Config.exe
+D:\Documents\Visual Studio 2015\Projects\DD Hosts Manager\Cortana Config\Cortana Config\obj\Debug\Cortana Config.xml
+D:\Documents\Visual Studio 2015\Projects\DD Hosts Manager\Cortana Config\Cortana Config\obj\Debug\Cortana Config.pdb
+D:\Documents\Visual Studio 2015\Projects\DD Hosts Manager\Cortana Config\Cortana Config\obj\Debug\Cortana_Config.MianWindow.resources
+D:\Documents\Visual Studio 2015\Projects\Cortana Config\Cortana Config\bin\Debug\Cortana Config.exe.config
+D:\Documents\Visual Studio 2015\Projects\Cortana Config\Cortana Config\obj\Debug\Cortana Config.exe
+D:\Documents\Visual Studio 2015\Projects\Cortana Config\Cortana Config\obj\Debug\Cortana Config.xml
+D:\Documents\Visual Studio 2015\Projects\Cortana Config\Cortana Config\obj\Debug\Cortana Config.pdb
+D:\Documents\Visual Studio 2015\Projects\Cortana Config\Cortana Config\bin\Debug\Cortana Config.exe
+D:\Documents\Visual Studio 2015\Projects\Cortana Config\Cortana Config\bin\Debug\Cortana Config.pdb
+D:\Documents\Visual Studio 2015\Projects\Cortana Config\Cortana Config\bin\Debug\Cortana Config.xml
+D:\Documents\Visual Studio 2015\Projects\Cortana Config\Cortana Config\obj\Debug\Cortana_Config.MianWindow.resources
+D:\Documents\Visual Studio 2015\Projects\Cortana Config\Cortana Config\obj\Debug\Cortana_Config.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Cortana Config\Cortana Config\obj\Debug\Cortana Config.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Cortana Config\Cortana Config\obj\Debug\Cortana Config.vbprojResolveAssemblyReference.cache
